@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "incremental": true,
+      "target": "esnext",
+      "module": "commonjs",
+      "strict": true,
+      "experimentalDecorators": true,
+      "noUnusedLocals": true,
+      "jsx": "react",
+      "forceConsistentCasingInFileNames": true,
+      "declaration": true
+    }
+}
