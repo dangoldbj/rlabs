@@ -3,5 +3,8 @@
   "packageManager": "yarn@3.4.1",
   "peerDependencies": {
     "react": "*"
+  },
+  "devDependencies": {
+    "react": "^18.2.0"
   }
 }
