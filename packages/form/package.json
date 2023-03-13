@@ -1,4 +1,7 @@
 {
   "name": "@rlabs/form",
-  "packageManager": "yarn@3.4.1"
+  "packageManager": "yarn@3.4.1",
+  "peerDependencies": {
+    "react": "*"
+  }
 }
